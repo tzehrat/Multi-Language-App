@@ -1,0 +1,9 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<project version="4">
+  <component name="ProjectModuleManager">
+    <modules>
+      <module fileurl="file://$PROJECT_DIR$/android/dbstech_ml_example_android.iml" filepath="$PROJECT_DIR$/android/dbstech_ml_example_android.iml" />
+      <module fileurl="file://$PROJECT_DIR$/multi_language_app_example.iml" filepath="$PROJECT_DIR$/multi_language_app_example.iml" />
+    </modules>
+  </component>
+</project>
